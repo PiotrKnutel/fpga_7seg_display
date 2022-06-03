@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -4.188
+TNS   : -76.755
+
+Type  : Slow 1200mV 85C Model Setup 'button1'
+Slack : -1.182
+TNS   : -4.766
+
+Type  : Slow 1200mV 85C Model Setup 'lpm_counter2:inst10|lpm_counter:LPM_COUNTER_component|cntr_hcj:auto_generated|counter_reg_bit[18]'
+Slack : -0.483
+TNS   : -0.884
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : -1.855
+TNS   : -1.855
+
+Type  : Slow 1200mV 85C Model Hold 'button1'
+Slack : 0.455
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'lpm_counter2:inst10|lpm_counter:LPM_COUNTER_component|cntr_hcj:auto_generated|counter_reg_bit[18]'
+Slack : 0.521
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -31.253
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'button1'
+Slack : -3.000
+TNS   : -11.922
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lpm_counter2:inst10|lpm_counter:LPM_COUNTER_component|cntr_hcj:auto_generated|counter_reg_bit[18]'
+Slack : -1.487
+TNS   : -2.974
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -3.738
+TNS   : -68.304
+
+Type  : Slow 1200mV 0C Model Setup 'button1'
+Slack : -0.986
+TNS   : -3.864
+
+Type  : Slow 1200mV 0C Model Setup 'lpm_counter2:inst10|lpm_counter:LPM_COUNTER_component|cntr_hcj:auto_generated|counter_reg_bit[18]'
+Slack : -0.337
+TNS   : -0.599
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : -1.686
+TNS   : -1.686
+
+Type  : Slow 1200mV 0C Model Hold 'button1'
+Slack : 0.405
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'lpm_counter2:inst10|lpm_counter:LPM_COUNTER_component|cntr_hcj:auto_generated|counter_reg_bit[18]'
+Slack : 0.476
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -31.253
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'button1'
+Slack : -3.000
+TNS   : -11.922
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lpm_counter2:inst10|lpm_counter:LPM_COUNTER_component|cntr_hcj:auto_generated|counter_reg_bit[18]'
+Slack : -1.487
+TNS   : -2.974
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -1.221
+TNS   : -21.966
+
+Type  : Fast 1200mV 0C Model Setup 'button1'
+Slack : 0.058
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lpm_counter2:inst10|lpm_counter:LPM_COUNTER_component|cntr_hcj:auto_generated|counter_reg_bit[18]'
+Slack : 0.373
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : -0.913
+TNS   : -2.743
+
+Type  : Fast 1200mV 0C Model Hold 'button1'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'lpm_counter2:inst10|lpm_counter:LPM_COUNTER_component|cntr_hcj:auto_generated|counter_reg_bit[18]'
+Slack : 0.211
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -23.216
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'button1'
+Slack : -3.000
+TNS   : -9.642
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lpm_counter2:inst10|lpm_counter:LPM_COUNTER_component|cntr_hcj:auto_generated|counter_reg_bit[18]'
+Slack : -1.000
+TNS   : -2.000
+
+------------------------------------------------------------

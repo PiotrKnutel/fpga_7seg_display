@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\user\kod\projekty_quartus\p06_easyfpga\simulation\qsim
+vp06
+Z1 IXgWZLWJhAzbXh?CblkYD43
+Z2 VOhIhJ0oal4FVF_;<eVEBF0
+Z3 dC:\Users\user\kod\projekty_quartus\p06_easyfpga\simulation\qsim
+Z4 w1654249935
+Z5 8p06.vo
+Z6 Fp06.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|p06.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 h814:mN0Ig72HT`<I@GY70
+!s85 0
+Z11 !s108 1654249936.352000
+Z12 !s107 p06.vo|
+!s101 -O0
+vp06_vlg_check_tst
+!i10b 1
+!s100 eRTd>J@[M4b_a8j`nJYBI3
+IhGRk1mRj><VHK8m5CXCdb0
+VjW9ocGIe3Z^L<X^6ILQPk1
+R3
+Z13 w1654249933
+Z14 8Waveform.vwf.vt
+Z15 FWaveform.vwf.vt
+L0 73
+R7
+r1
+!s85 0
+31
+Z16 !s108 1654249936.453000
+Z17 !s107 Waveform.vwf.vt|
+Z18 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R9
+vp06_vlg_sample_tst
+!i10b 1
+!s100 A5]B?9<0F325Dkic:PX`N2
+I;k5PJSc9mQ;:B9J1K?^JI3
+VI2U]eO5HD;n[o2>5eOFIG3
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R9
+vp06_vlg_vec_tst
+!i10b 1
+!s100 hW9GdcG[YZLQ:PK_k92dP0
+I9V_`IKe1Sh3WeNC=OXb<]1
+Z19 V9Z2@NIkS6cYiz:IzQDhoG1
+R3
+R13
+R14
+R15
+L0 313
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R9
